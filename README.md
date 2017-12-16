@@ -1,2 +1,2 @@
-# Android codes that are frequently used.
+# Android snippets that are frequently used.
 
